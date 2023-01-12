@@ -8,8 +8,18 @@ class dog {
 
     // A static method 
     static bark() {
-        console.log("Woof!");
+        console.log("Wake up!!");
     }
 }
-const myDog = new dog("Buster");
+
+
+const myDog = new dog(" Thanchira Sawasdee ");
 myDog.introduce();
+dog.bark();
+
+// const my2Dog = new dog("Pluto");
+// my2Dog.introduce();
+
+// //Calling the static method;
+// dog.bark();
+// //Dog.introduce*();
