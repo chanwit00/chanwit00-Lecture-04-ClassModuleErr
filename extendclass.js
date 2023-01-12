@@ -13,9 +13,9 @@ class song extends media {
 }
 
 const mySong = new song({
-    artist: "Queen",
-    name: "Pirot",
-    publishDate: 1978
+    artist: "Oasis",
+    name: "Wonderwall",
+    publishDate: 1995
 });
 
 console.log(mySong);
