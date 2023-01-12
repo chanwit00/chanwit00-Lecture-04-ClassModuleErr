@@ -7,6 +7,8 @@ function logError(theException) {
 }
 
 //try-catch
+console.log("\n********Try..Catch********\n")
+
 try {
     criticalCode();
 } catch (ex) {
